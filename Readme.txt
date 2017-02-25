@@ -1,7 +1,9 @@
 Title			:	PPL Assignment
 
-Platform		:	The project has been done in python3.5. with the help of sublime-text editor(Build-3126).
-				And tested over Linux-mint 18.1 Cinnamon 64-bit(Cinnamon version-3.2.7)
+Platform		:	The project has been done in python3.5. with the help of 
+				sublime-text editor(Build-3126).
+				And tested over Linux-mint 18.1 Cinnamon 64-bit
+				(Cinnamon version-3.2.7)
 				(Linux Kernel-4.4.0-53-generic) .
 
 Contents		:	Question-1(boy.py, girl.py, logs.py, main.py, util.py), 
