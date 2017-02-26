@@ -1,7 +1,7 @@
-##Title:
+## Title:
 PPL Assignment
 
-##Platform:
+## Platform:
 The project has been done in python3.5. with the help of 
 sublime-text editor(Build-3126).
 Tested over Linux-mint 18.1 Cinnamon 64-bit
